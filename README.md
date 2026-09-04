@@ -1,52 +1,55 @@
-# 👋 Hi, I'm Vivek Gajera
+<!-- ======================= HEADER ======================= -->
 
-### 🚀 Full Stack Developer | Laravel | Next.js | React | Node.js
+<div align="center">
 
-I build scalable, modern and user-friendly **ERP, LMS and SaaS applications**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00C2FF&height=220&section=header&text=Vivek%20Gajera&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-💻 Passionate about clean code, backend architecture, APIs and modern web technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Next.js+%7C+React+%7C+Node.js;Building+ERP+%26+LMS+Platforms+%F0%9F%8E%93;Creating+Scalable+Web+Applications+%F0%9F%92%BB;Always+Learning.+Always+Building.+%E2%9A%A1" />
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<a href="https://github.com/Vivek99256">
+<img src="https://komarev.com/ghpvc/?username=Vivek99256&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
+</a>
 
-- 🔭 Currently working on **ERP & LMS platforms**
-- 💡 Interested in **Full Stack Development & System Architecture**
-- ⚡ Backend: **Laravel, PHP, Node.js**
-- 🎨 Frontend: **Next.js, React, JavaScript**
-- 🗄️ Database: **MySQL, PostgreSQL**
-- 🛠️ Tools: **Git, GitHub, Docker**
-- 🚀 Always learning and building new things
+<a href="https://github.com/Vivek99256?tab=followers">
+<img src="https://img.shields.io/github/followers/Vivek99256?label=Followers&style=for-the-badge&color=1F6FEB" />
+</a>
 
----
+<a href="https://github.com/Vivek99256?tab=repositories">
+<img src="https://img.shields.io/github/stars/Vivek99256?label=Total%20Stars&style=for-the-badge&color=1F6FEB" />
+</a>
 
-## 🛠️ Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
-## 🚀 What I Build
+# 👋 Hello, I'm Vivek Gajera
+
+<div align="center">
+
+### 🚀 Full Stack Developer | Software Engineer
+
+**I design and build scalable, modern and user-friendly software systems.**
+
+💻 ERP & LMS Platforms  
+⚡ Full Stack Web Applications  
+🔌 REST APIs & Backend Systems  
+📊 Admin & Management Dashboards  
+🤖 AI & Automation Solutions  
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
 
 ```text
-🎓 Learning Management Systems
-🏢 Enterprise Resource Planning Systems
-📊 Admin & Management Dashboards
-🔐 Authentication & Authorization Systems
-🔌 REST APIs & Backend Services
-🤖 AI & Automation Solutions
+👨‍💻 Full Stack Developer
+🏗️ Building scalable ERP, LMS & SaaS applications
+⚡ Strong focus on backend architecture & APIs
+🎨 Modern frontend development
+🗄️ Database design & optimization
+🔐 Authentication & authorization systems
+🚀 Clean code • Performance • Scalability
+🧠 Always learning new technologies
