@@ -1,69 +1,119 @@
-<!-- ========================= HERO ========================= -->
+<!-- ========================= PREMIUM DEVELOPER PROFILE ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B5ED7,75:1F6FEB,100:00C2FF&height=250&section=header&text=Vivek%20Gajera&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=57&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,35:0B3B8F,65:1F6FEB,100:00C2FF&height=270&section=header&text=Vivek%20Gajera&fontSize=60&fontColor=FFFFFF&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=57&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Next.js+%7C+React+%7C+Node.js;Building+ERP+%26+LMS+Platforms+%F0%9F%8E%93;Designing+Scalable+Web+Applications+%F0%9F%92%BB;APIs+%7C+Dashboards+%7C+Automation+%7C+AI;Turning+Ideas+Into+Production-Ready+Systems+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+Next.js+%7C+React+%7C+Node.js;ERP+%7C+LMS+%7C+Education+Platforms+%F0%9F%8E%93;Backend+Architecture+%7C+REST+APIs+%7C+Databases;Dashboards+%7C+Automation+%7C+AI+Experiments;Building+Real-World+Software+That+Scales+%E2%9A%A1" alt="Typing animation" />
 
 <br/>
 
 <a href="https://github.com/Vivek99256">
-<img src="https://komarev.com/ghpvc/?username=Vivek99256&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Vivek99256&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 </a>
 <a href="https://github.com/Vivek99256?tab=followers">
 <img src="https://img.shields.io/github/followers/Vivek99256?label=FOLLOWERS&style=for-the-badge&color=1F6FEB" alt="Followers" />
 </a>
 <a href="https://github.com/Vivek99256?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-40%2B-1F6FEB?style=for-the-badge" alt="Repositories" />
+<img src="https://img.shields.io/badge/PUBLIC%20PROJECTS-40%2B-1F6FEB?style=for-the-badge" alt="Public projects" />
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Hey, I'm Vivek
 
 <div align="center">
 
-### I build software that solves real-world problems.
+### Building products, solving problems, and turning ideas into working software.
 
 </div>
 
-I'm a **Full Stack Developer** focused on building modern, scalable and maintainable applications. My work spans **ERP systems, Learning Management Systems, student/school management platforms, dashboards, authentication systems, APIs and automation-focused applications**.
+I'm a **Full Stack Developer / Software Engineer** who enjoys building practical software from the ground up — from requirement analysis and database design to APIs, frontend experiences, testing, optimization and deployment.
 
-I enjoy working across the complete development lifecycle — from understanding a requirement and designing the architecture to building the UI, APIs, database layer, testing and shipping a reliable product.
+My strongest interests are **ERP, LMS, education technology, business applications, dashboards, authentication systems, REST APIs and automation**. I like working on systems where good architecture, reliable data and a smooth user experience all have to work together.
+
+> 💡 **My goal:** build software that is useful today, maintainable tomorrow, and scalable when the product grows.
+
+---
+
+## 🧑‍💻 Developer Profile
 
 ```text
-💻 Full Stack Development
-🏗️ Application Architecture
-🔌 REST API Development
-🗄️ Database Design & Optimization
-🎓 ERP / LMS / Education Platforms
-📊 Admin & Management Dashboards
-🔐 Authentication & Authorization
-🤖 AI & Automation Exploration
-⚡ Performance & Scalability
-🧪 Testing & Quality Engineering
+┌────────────────────────────────────────────────────────────┐
+│                     VIVEK GAJERA                           │
+├────────────────────────────────────────────────────────────┤
+│ Role        → Full Stack Developer / Software Engineer    │
+│ Backend     → Laravel • PHP • Node.js                      │
+│ Frontend    → Next.js • React • JavaScript                 │
+│ Data        → MySQL • PostgreSQL • MongoDB                 │
+│ Engineering → APIs • Architecture • Dashboards             │
+│ Domain      → ERP • LMS • Education • Business Systems     │
+│ Interests   → Automation • AI • Performance • DX           │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧭 My Engineering Focus
+## 🏗️ What I Do
 
-| Area | Focus |
-|:---|:---|
-| 🏗️ **Architecture** | Modular, maintainable and scalable application design |
-| 🎨 **Frontend** | Responsive, clean and intuitive user experiences |
-| ⚙️ **Backend** | Business logic, services, APIs and integrations |
-| 🗄️ **Data** | Relational database design, queries and data integrity |
-| 🔐 **Security** | Authentication, authorization and role-based access |
-| 🚀 **Performance** | Efficient queries, APIs and production-ready systems |
-| 🧪 **Quality** | Feature testing, regression testing and reliable releases |
-| 🤖 **Automation** | Reducing repetitive work through automation and AI |
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Backend Engineering
+- REST API design & development
+- Business logic & service architecture
+- Authentication & authorization
+- Role-based access control
+- Database-driven applications
+- Validation & data integrity
+- Performance-focused backend work
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend Engineering
+- Next.js & React applications
+- Responsive interfaces
+- Admin & management dashboards
+- Reusable UI components
+- API-driven frontend architecture
+- Form-heavy business workflows
+- User-focused interaction design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Business Systems
+- ERP platforms
+- LMS platforms
+- Student management
+- School management
+- HR workflows
+- Attendance systems
+- Reports & operational dashboards
+
+</td>
+<td width="50%">
+
+### 🤖 Automation & AI
+- Workflow automation
+- AI-assisted development
+- Content generation experiments
+- Developer productivity tools
+- Data/report automation
+- Exploring practical AI integrations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Stack
 
 ### 🌐 Frontend
 <div align="center">
@@ -80,102 +130,143 @@ I enjoy working across the complete development lifecycle — from understanding
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </div>
 
-### 🧰 Tools, DevOps & Workflow
+### 🔧 Tools & Development Workflow
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </div>
 
 ---
 
-## 🚀 What I Build
+## 🧠 Engineering Strengths
+
+| Capability | What it means in practice |
+|:---|:---|
+| 🏗️ **System Architecture** | Breaking complex requirements into maintainable modules and workflows |
+| 🔌 **API Engineering** | Designing reliable endpoints and clean frontend/backend contracts |
+| 🗄️ **Database Design** | Structuring data for integrity, performance and long-term maintainability |
+| 🔐 **Access Control** | Building authentication, authorization and role-based workflows |
+| 📊 **Business Applications** | Translating real operational processes into usable software |
+| ⚡ **Performance** | Identifying slow queries, API bottlenecks and unnecessary work |
+| 🧪 **Quality** | Verifying critical flows and reducing regressions |
+| 🤖 **Automation** | Automating repetitive workflows and exploring AI-assisted solutions |
+
+---
+
+## 🎓 Domain Experience
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%"><h3>🎓 Education</h3><p>LMS<br/>Student Management<br/>School Management<br/>Assessments</p></td>
-<td align="center" width="33%"><h3>🏢 Enterprise</h3><p>ERP Platforms<br/>HR Systems<br/>Attendance<br/>Reports & Dashboards</p></td>
-<td align="center" width="33%"><h3>⚡ Engineering</h3><p>REST APIs<br/>Authentication<br/>Automation<br/>AI-powered Tools</p></td>
-</tr>
-</table>
+`Learning Management` · `K-12 Education` · `Student Management` · `School Management` · `ERP` · `HR` · `Attendance` · `Reporting` · `Admin Dashboards` · `Authentication`
 
 </div>
 
 ---
 
-## 🌟 Selected Public Projects
+## 🚀 Selected Projects
 
 ### 🎓 LMS K12
-**Learning Management System focused on K-12 education workflows.**
+Learning-management platform work focused on K-12 education workflows and digital learning experiences.
 
-<a href="https://github.com/Vivek99256/lms_k12"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/lms_k12"><img src="https://img.shields.io/badge/EXPLORE%20LMS%20K12-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 🏢 TRIZ Application
-**Large-scale application work with a focus on modern web development and business workflows.**
+Application development work around business workflows and modern web application engineering.
 
-<a href="https://github.com/Vivek99256/triz_app-main1"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/triz_app-main1"><img src="https://img.shields.io/badge/EXPLORE%20TRIZ-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+### 🏢 TRIZ ERP
+ERP-focused application repository representing enterprise workflow development.
+
+<a href="https://github.com/Vivek99256/hp_erp"><img src="https://img.shields.io/badge/EXPLORE%20ERP-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 📚 Student Management System
-**Student and academic management application.**
+Student-focused management application covering academic and administrative workflows.
 
-<a href="https://github.com/Vivek99256/student-management-system"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/student-management-system"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 🏫 School Management
-**School-oriented management system and workflow implementation.**
+School-management application work focused on operational workflows and administration.
 
-<a href="https://github.com/Vivek99256/school-management-yb"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/school-management-yb"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 🔐 Authentication System
-**Authentication-focused Laravel/PHP project for secure application access.**
+Authentication-focused project demonstrating secure application access workflows.
 
-<a href="https://github.com/Vivek99256/Auth"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/Auth"><img src="https://img.shields.io/badge/EXPLORE%20AUTH-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### 📊 Admin Dashboard
-**Laravel dashboard interface and admin-oriented UI foundation.**
+### 📊 Laravel Dashboard
+Dashboard-oriented Laravel project and UI foundation.
 
-<a href="https://github.com/Vivek99256/black-dashboard-laravel"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Vivek99256/black-dashboard-laravel"><img src="https://img.shields.io/badge/EXPLORE%20DASHBOARD-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
-## 🧩 Areas I Enjoy Working On
+## 🧩 How I Approach a Project
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                    PRODUCT ENGINEERING                  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Requirements  →  Architecture  →  Development         │
-│        ↓                 ↓                ↓              │
-│      UI/UX             APIs           Database           │
-│        ↓                 ↓                ↓              │
-│       Tests        Integration       Optimization       │
-│              \          |          /                    │
-│               \         |         /                     │
-│                →  Production  ←                          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+                  ┌──────────────────┐
+                  │   REQUIREMENT    │
+                  └────────┬─────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │    ANALYSIS      │
+                  └────────┬─────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │   ARCHITECTURE   │
+                  └────────┬─────────┘
+                           ↓
+             ┌─────────────┼─────────────┐
+             ↓             ↓             ↓
+        ┌─────────┐   ┌─────────┐   ┌─────────┐
+        │   UI    │   │   API   │   │ DATABASE│
+        └────┬────┘   └────┬────┘   └────┬────┘
+             └─────────────┼─────────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │     TESTING      │
+                  └────────┬─────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │   OPTIMIZATION   │
+                  └────────┬─────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │     RELEASE      │
+                  └────────┬─────────┘
+                           ↓
+                  ┌──────────────────┐
+                  │ CONTINUOUSLY     │
+                  │    IMPROVE 🚀    │
+                  └──────────────────┘
 ```
 
 ---
 
-## 💡 Development Principles
+## 🔐 Building Reliable Applications
 
-- **Keep it maintainable** — code should be easy to understand and change.
-- **Design for scale** — avoid shortcuts that create future bottlenecks.
-- **Build with the user in mind** — technical quality should support a great experience.
-- **Protect the data** — validation, authorization and integrity matter.
-- **Automate repetitive work** — spend engineering time where it creates value.
-- **Test important behavior** — confidence comes from repeatable verification.
-- **Ship and improve** — software gets better through continuous iteration.
+I care about more than just making a feature work. A production application should also consider:
+
+```text
+Validation          → Prevent invalid data
+Authorization       → Protect business actions
+Database Integrity  → Keep data trustworthy
+API Contracts       → Keep systems predictable
+Error Handling      → Fail gracefully
+Performance         → Keep workflows responsive
+Testing             → Protect critical behavior
+Maintainability     → Make future changes safer
+```
 
 ---
 
-## 🔥 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vivek99256&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek99256&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Vivek99256&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14" />
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek99256&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=14" />
 
 </div>
 
@@ -185,7 +276,7 @@ I enjoy working across the complete development lifecycle — from understanding
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vivek99256&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=Vivek99256&theme=tokyonight&hide_border=true&border_radius=14" />
 
 </div>
 
@@ -201,82 +292,90 @@ I enjoy working across the complete development lifecycle — from understanding
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek99256&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek99256&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 📊 Coding Snapshot
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vivek99256&theme=tokyonight&hide_border=true&border_radius=12" />
+| 🔭 Focus | 🧠 Goal |
+|:---|:---|
+| **Advanced Full Stack Development** | Build stronger end-to-end systems |
+| **System Design** | Design applications that scale cleanly |
+| **ERP / LMS** | Improve complex business & education workflows |
+| **API Architecture** | Create predictable and maintainable integrations |
+| **Database Optimization** | Improve query performance and data design |
+| **AI & Automation** | Turn repetitive workflows into smarter systems |
+| **Developer Experience** | Make development faster and more reliable |
 
 </div>
 
-> If WakaTime is not configured, this card may remain unavailable. It can be enabled later by connecting a WakaTime account.
+---
+
+## 📚 Learning & Exploring
+
+<div align="center">
+
+`System Design` `Advanced Laravel` `Next.js` `React` `API Architecture` `Database Optimization` `Docker` `AI Automation` `Testing` `Performance Engineering`
+
+</div>
 
 ---
 
-## 🏅 What I'm Building Toward
+## 🧪 Things I Like to Experiment With
 
 ```text
-                 FULL STACK ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-      FRONTEND          BACKEND          DATA
-          │                │                │
-      Next.js           Laravel          MySQL
-      React             PHP              PostgreSQL
-      JavaScript        Node.js          MongoDB
-          │                │                │
-          └────────────────┼────────────────┘
-                           ↓
-                    SYSTEM DESIGN
-                           ↓
-                  SCALABLE PRODUCTS
-                           ↓
-                   BETTER EXPERIENCES 🚀
+✨ Better developer workflows
+⚡ Faster applications
+🧩 Reusable components and services
+🔌 Cleaner API integrations
+📊 Smarter dashboards and reporting
+🤖 AI-assisted automation
+🗄️ Better database strategies
+🔐 Safer authorization models
 ```
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 💼 Professional Mindset
 
 <div align="center">
 
-`System Design` `Advanced Laravel` `Next.js` `API Architecture` `Database Optimization` `Docker` `AI Automation` `Developer Productivity`
+### Code is only one part of engineering.
+
+**Understand the problem → Design the system → Build carefully → Test it → Measure it → Improve it.**
 
 </div>
 
 ---
 
-## 🤝 Open To
+## 🤝 Collaboration
 
-<div align="center">
+I'm interested in:
 
-💡 Interesting engineering problems  •  🚀 Product development  •  🤝 Collaboration  •  🧠 Knowledge sharing  •  🔧 Building useful tools
-
-</div>
+- 🚀 Building useful products
+- 💡 Solving interesting engineering problems
+- 🤝 Collaborating on practical projects
+- 🧠 Sharing development knowledge
+- 🔧 Improving existing systems
+- 🤖 Exploring useful automation and AI ideas
 
 ---
 
-## 📫 Connect With Me
+## 📫 Find Me on GitHub
 
 <div align="center">
 
 <a href="https://github.com/Vivek99256">
-<img src="https://img.shields.io/badge/GitHub-Vivek99256-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Vivek99256-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -287,26 +386,28 @@ I enjoy working across the complete development lifecycle — from understanding
 
 <div align="center">
 
-| 💻 Focus | 🚀 Stack | 🎯 Goal |
-|:---:|:---:|:---:|
-| Full Stack Development | Laravel + Next.js + React | Build scalable products |
-| ERP / LMS | PHP + Node.js | Solve real business problems |
-| APIs & Dashboards | MySQL + PostgreSQL | Clean & maintainable systems |
-| Automation & AI | Git + Docker | Improve developer productivity |
+```text
+Frontend       → Next.js • React • JavaScript
+Backend        → Laravel • PHP • Node.js
+Database       → MySQL • PostgreSQL • MongoDB
+Architecture   → APIs • Services • RBAC • Business Workflows
+Domains        → ERP • LMS • Education • HR • Reporting
+Interests      → Performance • Automation • AI • System Design
+```
 
 </div>
 
 ---
 
-## 💙 A Little Developer Wisdom
+## 💙 Developer Philosophy
 
 <div align="center">
 
-### `Think → Build → Test → Ship → Improve → Repeat 🔁`
+### `Think → Design → Build → Test → Ship → Learn → Improve 🔁`
 
 <br/>
 
-**Good software is not only about writing code — it's about solving the right problem well.**
+> **Build simple. Build reliable. Build for the future.**
 
 </div>
 
@@ -316,10 +417,10 @@ I enjoy working across the complete development lifecycle — from understanding
 
 ### ⭐ Thanks for visiting my profile!
 
-**If you find something useful here, feel free to explore my repositories and leave a ⭐.**
+If you find something useful in my repositories, feel free to explore, contribute, or leave a ⭐.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:1F6FEB,100:0D1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,35:1F6FEB,70:0B3B8F,100:050B14&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
