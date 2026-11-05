@@ -4,10 +4,6 @@
 
 <br/><br/>
 
-<img src="./team-dev-dance.gif" alt="Developer team animation" width="260"/>
-
-<br/>
-
 <img src="./ninja-way.svg?v=1" alt="My developer way" width="100%"/>
 
 <br/><br/>
@@ -38,8 +34,6 @@
 
 <br/><br/>
 
-<img src="./rasengan-run.gif" alt="Developer running animation" width="150"/>
-
 ### 🌃 My contribution village
 
 *Every commit raises another building — refreshed automatically every day.*
@@ -57,8 +51,6 @@
 <img src="https://komarev.com/ghpvc/?username=Vivek99256&color=ff7a1a&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 
 <br/>
-
-<img src="./chibi-walk.gif" alt="Developer walking animation" width="90"/>
 
 **Keep coding, keep growing.** 🍥
 
