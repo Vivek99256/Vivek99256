@@ -5,10 +5,6 @@
 
 <br/><br/>
 
-<img src="./team-dev-dance.gif" alt="Developer chibi dance" width="260"/>
-
-<br/>
-
 <!-- 🧠 MY DEVELOPER WAY -->
 <img src="./ninja-way.svg?v=3" alt="My developer way — what I build" width="100%"/>
 
@@ -26,7 +22,7 @@
 
 </div>
 
-## 🚀 Featured Builds
+## 🥷 S-Rank Missions
 
 <table>
 <tr><th>Project</th><th>What it is</th><th>Stack</th></tr>
@@ -42,11 +38,9 @@
 
 <br/><br/>
 
-<img src="./rasengan-run.gif" alt="Developer character running" width="150"/>
-
 ### 🌃 My contribution city
 
-*Every contribution builds the journey — refreshed automatically.*
+*Every commit adds another step to the journey.*
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
 
