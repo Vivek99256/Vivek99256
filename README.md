@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./hero.svg?v=1" alt="Hi, I'm Vivek Gajera — Full Stack Developer" width="100%"/>
+<img src="./hero.svg?v=2" alt="Hi, I'm Vivek Gajera — Full Stack Developer" width="100%"/>
 
 <br/><br/>
+
+<img src="./team-dev-dance.svg?v=1" alt="Developer team chibi dance" width="260"/>
+
+<br/>
 
 <img src="./ninja-way.svg?v=1" alt="My developer way" width="100%"/>
 
